@@ -9,5 +9,11 @@
  * @author drew
  */
 public class MockReimbursementData {
-    
+    int ID;
+    String Author;
+    int Resolver;
+    String Description;
+    int Type;
+    int Status;
+    int Amount;
 }
